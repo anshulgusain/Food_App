@@ -31,17 +31,10 @@ Sanjeev Kushwaha - Cart Page / sign in $ sign up
 ## Technologies Used
 
 - **Frontend**:
-  - HTML, CSS, JavaScript
-  - React.js
-  - (Any other relevant frontend technologies)
+  - HTML
+  - CSS
+  - JavaScript
 
-- **Backend**:
-  - Node.js
-  - Express.js
-  - (Any other relevant backend technologies)
-
-- **Database**:
-  - [Database Name/Type]
 
 ## Setup and Installation
 
